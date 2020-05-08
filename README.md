@@ -14,4 +14,4 @@ DeferredEquityPlan that models traditional company stock plans. This contract wi
 
 Here is my account before the contracts were deployed:
 
-![Ganache](Screenshots/ganache_initial_balance)
+![Ganache](Screenshots/ganache_initial_balance.png)
